@@ -5,11 +5,25 @@
 - 📊 Passionate about solving complex data challenges and driving impactful solutions.
 - 🌍 Based in Lagos, Nigeria.
 
-## 🛠 Skills
-- **Programming**: Python, SQL
-- **Tools & Frameworks**: Power BI, scikit-learn, FastAPI, statsmodels
-- **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
-- **Machine Learning**: Random Forest, XGBoost, LSTM, ARMA, GARCH
+## 🛠 Technical Skills
+
+### Programming & Tools
+- Python, SQL, Jupyter Notebook, Google Colab, Git, GitHub
+
+### Data Analysis & Visualization
+- Pandas, NumPy, Matplotlib, Seaborn, Power BI, Plotly Express
+
+### Machine Learning
+- Logistic Regression, Random Forest, Decision Tree, Gradient Boosting, XGBoost
+- k-Means Clustering, PCA, LSTM, ARMA, GARCH
+
+### Dashboards & APIs
+- Plotly Dash, IPyWidgets, FastAPI, Uvicorn
+
+### Data Extraction & NLP
+- SQL (SQLite, MySQL, PostgreSQL), MongoDB, Web APIs
+- NLTK, spaCy, Transformers
+
 
 ## 📂 Featured Projects
 1. **[Tesla Stock Prediction](https://github.com/emekafelix243/TESLA-STOCK-PREDICTION-MODEL/tree/main)**  
@@ -24,4 +38,4 @@
 ## 📫 Contact
 - **Email**: [okeke243@gmail.com](mailto:okeke243@gmail.com)
 - **LinkedIn**: [Felix Emeka](https://linkedin.com/in/felix-emeka-281629129)
-- **GitHub**: [@okeke243](https://github.com/okeke243)
+- **GitHub**: [@okeke243](https://github.com/emekafelix243)
