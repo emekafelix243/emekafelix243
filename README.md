@@ -5,6 +5,11 @@
 - 📊 Passionate about solving complex data challenges and driving impactful solutions.
 - 🌍 Based in Lagos, Nigeria.
 
+## 🎓 Education
+- **Applied Data Science Lab**: WorldQuant University, 2024
+- **Bachelor of Technology in Industrial Physics - Materials Science**: Federal University of Technology, Owerri, 2014
+
+
 ## 🛠 Technical Skills
 
 ### Programming & Tools
