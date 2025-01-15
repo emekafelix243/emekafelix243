@@ -38,4 +38,4 @@
 ## 📫 Contact
 - **Email**: [okeke243@gmail.com](mailto:okeke243@gmail.com)
 - **LinkedIn**: [Felix Emeka](https://linkedin.com/in/felix-emeka-281629129)
-- **GitHub**: [@okeke243](https://github.com/emekafelix243)
+- **GitHub**: [@emekafelix243](https://github.com/emekafelix243)
